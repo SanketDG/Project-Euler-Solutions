@@ -12,3 +12,5 @@ These are solutions of [Project Euler](https://projecteuler.net/) written in Pyt
 
 [Largest Palindrome Product](https://projecteuler.net/problem=4) --> [Solution](1-10/largest_palindrome_product.py)
 
+[Smallest Multiple](https://projecteuler.net/problem=5) --> [Solution](1-10/smallest_multiple.py)
+
