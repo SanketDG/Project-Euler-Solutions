@@ -16,3 +16,5 @@ These are solutions of [Project Euler](https://projecteuler.net/) written in Pyt
 
 [10001st Prime](https://projecteuler.net/problem=7) --> [Solution](1-10/10001st-prime.py)
 
+[Sum square difference](https://projecteuler.net/problem=6) --> [Solution](1-10/sum-square-difference.py)
+
